@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dashboard.unity
+    guid: 3b9c4793c0e7ee4478e96a96aa37a3ff
+  - enabled: 1
+    path: Assets/Level.unity
+    guid: 92d7fba1c9ae0a54cb2a2a42dc3507f4
+  - enabled: 1
+    path: Assets/Petunjuk.unity
+    guid: 6081af9cf77a3fd4aa7ddd8d9f177fb9
+  - enabled: 1
+    path: Assets/Level1.unity
+    guid: 0b7af0460daedb841bd2fa21a872d38b
+  - enabled: 1
+    path: Assets/Level2.unity
+    guid: 4d7b04a56777fc947be98e84e5f2f9dc
+  - enabled: 1
+    path: Assets/Level1_Pengurangan.unity
+    guid: 56ce6efe63f79e34e84ecadfc95e9512
+  - enabled: 1
+    path: Assets/Level1_Penjumlahan.unity
+    guid: 1f3643682a2e9c543880bee4328b3819
+  - enabled: 1
+    path: Assets/Level2_Pembagian.unity
+    guid: 3bd02cbba1ed7714daf9763b158db775
+  - enabled: 1
+    path: Assets/Level2_Perkalian.unity
+    guid: 672abebf583c1a14fabab03059ac10c4
+  - enabled: 1
+    path: Assets/Level1_Penjumlahan_1.unity
+    guid: 6734924027cb321478ed1259956c875e
+  - enabled: 0
+    path: Assets/ControlToolkit/Scenes/DemoScene.unity
+    guid: 340716f50cc4cdd4e9814fe01b93ac95
